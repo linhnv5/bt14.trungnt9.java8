@@ -13,7 +13,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<hibernater.version>5.4.5.Final</hibernater.version>
+		<hibernater.version>5.4.24.Final</hibernater.version>
 		<mysql.version>8.0.17</mysql.version>
 	</properties>
 
